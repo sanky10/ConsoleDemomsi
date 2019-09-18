@@ -10,6 +10,8 @@ namespace Installer
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Agile Guys");
+            Console.ReadKey();
         }
     }
 }
