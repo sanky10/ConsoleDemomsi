@@ -10,7 +10,7 @@ namespace Installer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Agile Guys This is TCS Folks");
+            Console.WriteLine("Hello Agile Guys This is TCS FolksQ");
             Console.ReadKey();
         }
     }
